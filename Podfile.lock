@@ -1,0 +1,16 @@
+PODS:
+  - RSKImageCropper (2.2.3)
+
+DEPENDENCIES:
+  - RSKImageCropper
+
+SPEC REPOS:
+  trunk:
+    - RSKImageCropper
+
+SPEC CHECKSUMS:
+  RSKImageCropper: a446db0e8444a036b34f3c43db01b2373baa4b2a
+
+PODFILE CHECKSUM: f7125da65abfca079815a0325a8471b0729c9a64
+
+COCOAPODS: 1.9.3
